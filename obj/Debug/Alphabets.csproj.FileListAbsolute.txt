@@ -1,0 +1,2 @@
+C:\Users\Janardhan Chiliveri\source\repos\Alphabets\Alphabets\obj\Debug\Alphabets.csproj.AssemblyReference.cache
+C:\Users\Janardhan Chiliveri\source\repos\Alphabets\Alphabets\obj\Debug\Alphabets.csproj.CoreCompileInputs.cache
